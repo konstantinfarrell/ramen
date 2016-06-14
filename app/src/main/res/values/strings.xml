@@ -2,4 +2,10 @@
     <string name="app_name">Ramen</string>
     <string name="action_settings">Settings</string>
     <string name="ramen">Ramen!</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="skiplogin">I Dont Want to Login</string>
+    <string name="email">Email</string>
+    <string name="ramen_subtext">Be More Productive</string>
 </resources>
